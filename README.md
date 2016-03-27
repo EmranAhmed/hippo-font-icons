@@ -21,8 +21,8 @@ Save your file as SVG with the following settings:
 - Fonts Subsetting: None
 - Options Image Location: Embed
 - Advanced Options
--- CSS Properties: Presentation Attributes
--- Decimal Places: 1
---Encoding: UTF-8
---Output fewer elements: check
---Leave the rest unchecked.
+  - CSS Properties: Presentation Attributes
+  - Decimal Places: 1
+  - Encoding: UTF-8
+  - Output fewer elements: check
+  - Leave the rest unchecked.
