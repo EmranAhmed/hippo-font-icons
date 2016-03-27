@@ -17,8 +17,10 @@ var rename = require('gulp-rename');
 var iconfontCss = require('gulp-iconfont-css');
 
 var runTimestamp = Math.round(Date.now()/1000);
-var fontName = 'HippoIcons';
-var className = 'hippoicon';
+
+
+var fontName = 'HippoIcons';  // Change your font name
+var className = 'hippoicon';  // Change your font class name
 
 
 gulp.task('generate-icons', function(){
