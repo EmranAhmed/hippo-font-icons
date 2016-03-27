@@ -2,6 +2,7 @@
 // https://github.com/cognitom/symbols-for-sketch
 // https://github.com/nfroidure/gulp-iconfont/
 // https://github.com/backflip/gulp-iconfont-css
+// Check svg on http://nfroidure.github.io/svgiconfont/
 
 // Install NodeJS
 // > sudo npm install -g gulp
